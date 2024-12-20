@@ -1,1 +1,1 @@
-# blockchain_transactions
+# Загрузка, обработка и анализ транзакций в блокчейне Ethereum
